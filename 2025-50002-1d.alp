@@ -2,7 +2,7 @@
     "project": {
         "type": "V1.3",
         "projectName": "2025-50002-1d",
-        "board": "Alchitry Au V2",
+        "board": "Alchitry Au",
         "sourceFiles": [
             {
                 "file": {
@@ -70,7 +70,7 @@
             {
                 "file": {
                     "type": "Component",
-                    "path": "Constraints/io_v2.acf"
+                    "path": "Constraints/io_v1_pulldown.acf"
                 }
             }
         ],
